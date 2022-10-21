@@ -1,5 +1,6 @@
 {
   "name": "jammming",
+  "homepage": "https://ejuneau.github.io/CA_Jammming/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
