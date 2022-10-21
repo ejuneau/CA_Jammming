@@ -1,6 +1,6 @@
 let accessToken;
 const appClientID = "1dbb61a7d1b043339047dc6ed3458b34";
-const redirectURI = "http://localhost:3000/";
+const redirectURI = "https://ejuneau.github.io/CA_Jammming/";
 
 const Spotify = {
     getAccessToken() {
